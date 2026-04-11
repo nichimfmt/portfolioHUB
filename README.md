@@ -47,9 +47,3 @@ Processamento Seletivo e Paridade: Desenvolvimento de um script focado em minera
 
 https://docs.google.com/document/d/1xo_jzLJGS7G0tdMy7ZwWIPZOYgp7g1qFk34g8ZoZTMo/edit?usp=sharing
 
-🛠️ Habilidades e Competências
-
-Aqui apresento um resumo das minhas principais competências técnicas (Hard Skills) e comportamentais (Soft Skills), fundamentais para o meu desenvolvimento na Engenharia de Software.
-
-🎨 Clique aqui para visualizar a minha apresentação de Habilidades e Competências
-
