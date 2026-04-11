@@ -39,8 +39,12 @@ Ao longo do primeiro semestre de Engenharia de Software no CEUB, elaborei divers
 Principais implementações do projeto:
 
 Sistema de Análise Estatística de Dados: Algoritmo desenvolvido para o processamento de fluxos numéricos, capaz de contabilizar o volume de entradas, realizar o somatório acumulado e calcular médias aritméticas, integrando uma camada de filtragem para identificar a frequência de valores acima de um limite específico (superior a 20).
+
 Processamento Seletivo e Paridade: Desenvolvimento de um script focado em mineração de dados numéricos que realiza o isolamento de variáveis por paridade. O sistema calcula, de forma independente, as médias de números pares e ímpares, enquanto mantém o controle global sobre a contagem total de entradas e o somatório geral do conjunto de dados.
+
 🔗 Clique aqui para visualizar a documentação dos códigos
+
+https://docs.google.com/document/d/1xo_jzLJGS7G0tdMy7ZwWIPZOYgp7g1qFk34g8ZoZTMo/edit?usp=sharing
 
 🛠️ Habilidades e Competências
 
