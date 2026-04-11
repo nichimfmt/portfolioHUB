@@ -2,7 +2,7 @@ portfolioHUB
 Foto Profissional
 
 👤 Perfil Pessoal
-Sobre mim Sou movido por criatividade e um rigoroso senso de propósito. Tenho afinidade natural com lógica e sistemas complexos, dedicando-me a resolver problemas que exigem análise crítica profunda. Valorizo a pesquisa e a aplicação prática, mantendo a flexibilidade cognitiva necessária para ajustar premissas conforme novos dados surgem. Essa inclinação analítica se reflete diretamente na minha comunicação: utilizo a clareza na escrita e na oratória para construir um relacionamento sólido e colaborativo com as equipes. Busco oportunidades que dialoguem com esse perfil, onde eu possa aprender continuamente e incorporar o novo ao meu senso crítico.
+Resolvedor de problemas com foco em lógica de programação e arquiteturas complexas de TI. Minha maior força é o equilíbrio entre o rigor técnico e a velocidade de aprendizado: aprendo rápido e tenho prontidão para absorver qualquer conhecimento necessário para superar barreiras tecnológicas. Mantenho a mente aberta para refatorar premissas e ajustar rotas, utilizando a clareza na escrita de código e na oratória para construir relacionamentos sólidos e entregas de alto impacto.
 
 Contatos:
 
@@ -34,13 +34,12 @@ Inglês - Básico
 💻 Projetos Acadêmicos e Profissionais
 
 Lógica de Programação e Algoritmos em Python
-Durante o meu 1º semestre de Engenharia de Software no CEUB, desenvolvi uma série de scripts focados em lógica matemática, estruturação de dados e resolução de problemas.
+Ao longo do primeiro semestre de Engenharia de Software no CEUB, elaborei diversos scripts voltados à lógica matemática, organização de dados e resolução de desafios técnicos complexos.
 
 Principais implementações do projeto:
 
-Calculadora Interativa: Sistema que simula uma calculadora com as quatro operações aritméticas básicas, aplicando estruturas condicionais encadeadas e validação de entrada de dados (como bloqueio de divisão por zero).
-Sistema de Análise de Notas: Script para processamento de dados escolares em laço de repetição, capaz de ler múltiplas entradas de alunos, categorizá-los entre aprovados/reprovados e retornar a média geral da turma.
-Processamento de Sequências e Paridade: Desenvolvimento de algoritmos que realizam a leitura de grandes volumes de dados para extrair médias específicas (isolando números pares e ímpares), além de gerar sequências numéricas customizadas (crescentes, decrescentes e múltiplos).
+Sistema de Análise Estatística de Dados: Algoritmo desenvolvido para o processamento de fluxos numéricos, capaz de contabilizar o volume de entradas, realizar o somatório acumulado e calcular médias aritméticas, integrando uma camada de filtragem para identificar a frequência de valores acima de um limite específico (superior a 20).
+Processamento Seletivo e Paridade: Desenvolvimento de um script focado em mineração de dados numéricos que realiza o isolamento de variáveis por paridade. O sistema calcula, de forma independente, as médias de números pares e ímpares, enquanto mantém o controle global sobre a contagem total de entradas e o somatório geral do conjunto de dados.
 🔗 Clique aqui para visualizar a documentação dos códigos
 
 🛠️ Habilidades e Competências
