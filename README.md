@@ -1,5 +1,7 @@
-portfolioHUB
 Foto Profissional
+
+
+
 
 👤 Perfil Pessoal
 Resolvedor de problemas com foco em lógica de programação e arquiteturas complexas de TI. Minha maior força é o equilíbrio entre o rigor técnico e a velocidade de aprendizado: aprendo rápido e tenho prontidão para absorver qualquer conhecimento necessário para superar barreiras tecnológicas. Mantenho a mente aberta para refatorar premissas e ajustar rotas, utilizando a clareza na escrita de código e na oratória para construir relacionamentos sólidos e entregas de alto impacto.
