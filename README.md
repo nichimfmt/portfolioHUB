@@ -1,7 +1,6 @@
 Foto Profissional
 
-
-
+<img width="141" height="181" alt="Foto" src="https://github.com/user-attachments/assets/444a95c6-0019-48aa-bb2e-5d60440a1e67" />
 
 👤 Perfil Pessoal
 Resolvedor de problemas com foco em lógica de programação e arquiteturas complexas de TI. Minha maior força é o equilíbrio entre o rigor técnico e a velocidade de aprendizado: aprendo rápido e tenho prontidão para absorver qualquer conhecimento necessário para superar barreiras tecnológicas. Mantenho a mente aberta para refatorar premissas e ajustar rotas, utilizando a clareza na escrita de código e na oratória para construir relacionamentos sólidos e entregas de alto impacto.
