@@ -12,7 +12,9 @@ Contatos:
 💼 LinkedIn: Nickolas Felipe Maia Teixeira
 📄 Currículo
 📥 https://docs.google.com/document/d/153yeEjUw3aAXZyZSpJfdHY2r9v-DuXLN-1FQclQhQ6I/edit?usp=sharing
+
 Objetivo Profissional
+
 Estágio profissional na área de Engenharia de Software ou relacionados. Busca da primeira oportunidade profissional para aplicar e expandir conhecimentos práticos em lógica de programação e desenvolvimento.
 
 Formação Acadêmica
@@ -28,7 +30,9 @@ Formação Complementar e Idiomas
 Introdução ao Uso da Inteligência Artificial (2026)
 Processamento Digital de Imagens com Software Livre (2026)
 Inglês - Básico
+
 💻 Projetos Acadêmicos e Profissionais
+
 Lógica de Programação e Algoritmos em Python
 Durante o meu 1º semestre de Engenharia de Software no CEUB, desenvolvi uma série de scripts focados em lógica matemática, estruturação de dados e resolução de problemas.
 
@@ -40,6 +44,7 @@ Processamento de Sequências e Paridade: Desenvolvimento de algoritmos que reali
 🔗 Clique aqui para visualizar a documentação dos códigos
 
 🛠️ Habilidades e Competências
+
 Aqui apresento um resumo das minhas principais competências técnicas (Hard Skills) e comportamentais (Soft Skills), fundamentais para o meu desenvolvimento na Engenharia de Software.
 
 🎨 Clique aqui para visualizar a minha apresentação de Habilidades e Competências
