@@ -13,7 +13,7 @@ Contatos:
 
 📍 Localização: Brasília - DF
 
-💼 [Linkedin](www.linkedin.com/in/nickolas-felipe-23447a2a2)
+💼 [Linkedin](https://www.linkedin.com/in/nickolas-felipe-23447a2a2)
 
 📥 [Currículo](https://docs.google.com/document/d/153yeEjUw3aAXZyZSpJfdHY2r9v-DuXLN-1FQclQhQ6I/edit?usp=sharing)
 
