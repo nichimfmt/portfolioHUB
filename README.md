@@ -8,9 +8,13 @@ Resolvedor de problemas com foco em lógica de programação e arquiteturas comp
 Contatos:
 
 📧 E-mail: nickolasfmt777@gmail.com
+
 📱 Telefone: (61) 99918-2166
+
 📍 Localização: Brasília - DF
+
 💼 LinkedIn: Nickolas Felipe Maia Teixeira
+
 📄 Currículo
 
 📥 [currículo](https://docs.google.com/document/d/153yeEjUw3aAXZyZSpJfdHY2r9v-DuXLN-1FQclQhQ6I/edit?usp=sharing)
