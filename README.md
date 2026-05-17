@@ -12,6 +12,7 @@ Contatos:
 📍 Localização: Brasília - DF
 💼 LinkedIn: Nickolas Felipe Maia Teixeira
 📄 Currículo
+
 📥 [currículo](https://docs.google.com/document/d/153yeEjUw3aAXZyZSpJfdHY2r9v-DuXLN-1FQclQhQ6I/edit?usp=sharing)
 
 Objetivo Profissional
