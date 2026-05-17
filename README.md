@@ -48,7 +48,5 @@ Sistema de Análise Estatística de Dados: Algoritmo desenvolvido para o process
 
 Processamento Seletivo e Paridade: Desenvolvimento de um script focado em mineração de dados numéricos que realiza o isolamento de variáveis por paridade. O sistema calcula, de forma independente, as médias de números pares e ímpares, enquanto mantém o controle global sobre a contagem total de entradas e o somatório geral do conjunto de dados.
 
-🔗 Clique aqui para visualizar a documentação dos códigos
-
-https://docs.google.com/document/d/1xo_jzLJGS7G0tdMy7ZwWIPZOYgp7g1qFk34g8ZoZTMo/edit?usp=sharing
+[🔗 Clique aqui para visualizar a documentação dos códigos](https://docs.google.com/document/d/1xo_jzLJGS7G0tdMy7ZwWIPZOYgp7g1qFk34g8ZoZTMo/edit?usp=sharing)
 
